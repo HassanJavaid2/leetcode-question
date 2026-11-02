@@ -23,8 +23,8 @@ A curated archive of my personal solutions to algorithmic problems on LeetCode. 
 
 | # | Title | Difficulty | Solution | Time | Space | Notes |
 | :---: | :--- | :---: | :--- | :---: | :---: | :--- |
-| 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | `Easy` | [`1929_concatenation_of_array.cpp`](./1929_concatenation_of_array.cpp) | $O(N)$ | $O(N)$ | Direct indexing |
-| 0136 | [Single Number](https://leetcode.com/problems/single-number/) | `Easy` | [`0136_single_number.cpp`](./136_single_number.cpp) | $O(N)$ | $O(1)$ | Bit manipulation (XOR) |
+| 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | `Easy` | [`1929-concatenation-of-array.cpp`](./1929-concatenation-of-array.cpp) | $O(N)$ | $O(N)$ | Direct indexing |
+| 0136 | [Single Number](https://leetcode.com/problems/single-number/) | `Easy` | [`136-single-number.cpp`](./136-single-number.cpp) | $O(N)$ | $O(1)$ | Bit manipulation (XOR) |
 
 ---
 
