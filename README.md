@@ -12,10 +12,10 @@ A curated archive of my personal solutions to algorithmic problems on LeetCode. 
 
 | Difficulty | Solved | Target |
 | :--- | :---: | :---: |
-| 🟢 Easy | 2 | 50 |
-| 🟡 Medium | 0 | 50 |
+| 🟢 Easy | 3 | 50 |
+| 🟡 Medium | 1 | 50 |
 | 🔴 Hard | 0 | 10 |
-| **Total** | **2** | **110** |
+| **Total** | **4** | **110** |
 
 ---
 
