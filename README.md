@@ -12,10 +12,10 @@ A curated archive of my personal solutions to algorithmic problems on LeetCode. 
 
 | Difficulty | Solved | Target |
 | :--- | :---: | :---: |
-| 🟢 Easy | 3 | 50 |
+| 🟢 Easy | 4 | 50 |
 | 🟡 Medium | 1 | 50 |
 | 🔴 Hard | 0 | 10 |
-| **Total** | **4** | **110** |
+| **Total** | **5** | **110** |
 
 ---
 
@@ -27,6 +27,7 @@ A curated archive of my personal solutions to algorithmic problems on LeetCode. 
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | `Easy` | [`1929-concatenation-of-array.cpp`](./1929-concatenation-of-array.cpp) |
 | 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | `Easy` | [`0009-palindrome-number.cpp`](./0009-palindrome.cpp) |
 | 0008 | [String to Integer](https://leetcode.com/problems/palindrome-number/) | `Medium` | [`0008-string-to-integer.cpp`](./0008-string-to-integer.cpp) |
+| 0013 | [Roman to Integer](https://leetcode.com/problems/palindrome-number/) | `Easy` | [`0013-roman-to-integer.cpp`](./0013-roman-to-integer.cpp) |
 
 
 ---
