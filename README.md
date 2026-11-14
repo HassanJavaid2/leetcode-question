@@ -31,3 +31,18 @@ A curated archive of my personal solutions to algorithmic problems on LeetCode. 
 
 
 ---
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/HassanJavaid2/leetcode-question/tree/master/0069-sqrtx) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/HassanJavaid2/leetcode-question/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/HassanJavaid2/leetcode-question/tree/master/0069-sqrtx) |
+<!---LeetCode Topics End-->
