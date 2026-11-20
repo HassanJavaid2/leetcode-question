@@ -45,4 +45,12 @@ A curated archive of my personal solutions to algorithmic problems on LeetCode. 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/HassanJavaid2/leetcode-question/tree/master/0069-sqrtx) |
+## Array
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/HassanJavaid2/leetcode-question/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/HassanJavaid2/leetcode-question/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
